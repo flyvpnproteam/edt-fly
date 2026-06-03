@@ -2,3 +2,9 @@ flyvpnprojob1.loseyourip.com:443#大佬维护 | CMLiu
 flyvpnprojob2.loseyourip.com:443#大佬维护 | CMLiu
 flyvpnprojob3.loseyourip.com:443#大佬维护 | CMLiu
 flyvpnprottst.loseyourip.com:443#大佬维护 | CMLiu
+162.159.141.236:443#JP
+162.159.141.236:443#SG
+162.159.141.236:443#TH
+162.159.141.236:443#ID
+162.159.141.236:443#IN
+162.159.141.236:443#US
